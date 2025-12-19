@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Key, Lightbulb, Command, Database, Info, Activity, ShieldAlert, Heart, Coffee, ChevronRight, Lock, MessageSquare } from 'lucide-react';
 import { AppMode } from '../types';
@@ -80,7 +81,7 @@ const AppInfo: React.FC<Props> = ({ onNavigate, isProcessing, processingMode }) 
             className="w-full px-6 py-2.5 bg-white text-orange-700 font-bold text-xs uppercase tracking-wide rounded-lg border border-orange-200 hover:bg-orange-50 hover:border-orange-300 transition-all shadow-sm flex items-center justify-center gap-2 whitespace-nowrap active:scale-95"
         >
             <Heart size={14} className="text-orange-500 fill-orange-500" />
-            lynk.id/isaproject/support
+            support kami
         </a>
       </div>
 
